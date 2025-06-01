@@ -1,9 +1,7 @@
 # TAS
-
 Compute true airspeed (TAS) given calibrated airspeed (CAS), pressure altitude and outside air temperature as inputs.
 
 ## Notes
-
 The source of the formula used is unknown and results may not be accurate. Do not use for real-life navigation or planning.
 
 ## Program listing
